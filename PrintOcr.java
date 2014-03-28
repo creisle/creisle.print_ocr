@@ -6,8 +6,8 @@
 *  Authors: Caralyn Reisle and Sunette Mynhardt
 *  Date: 2014 March 25 (T)
 *
-* To compile: javac -cp weka.jar clusteringwithbitset.java
-* To Run: java -cp weka.jar:. clusteringwithbitset <test image> <optional parameters>
+* To compile: javac -cp weka.jar PrintOcr.java
+* To Run: java -cp weka.jar:. PrintOcr <test image> <optional parameters>
 * 
 *  Purpose: this program uses a database of letter images to build a classifier for the times
 *  	new roman font using either a neural network or svm depending on the users choice
