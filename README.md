@@ -7,7 +7,7 @@ Final Project for a datamining course
 
 Project Goal: take jpg file input, extract text, output to plain text file
 
-Notes: currently only works for clean (no noise) straight images. Later versions will attempt more image cleaning in the pre-processing steps as well as a more robust scanning algorithm for isolating putative text components
+Notes: currently only works for clean (no noise) straight images. Later versions will attempt more image cleaning in the pre-processing steps as well as a more robust scanning algorithm for isolating putative text components. See presentation.pdf for more details and references.
 
 ##How it works?
 - Pre-Processing:
