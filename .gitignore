@@ -1,0 +1,5 @@
+*.class
+weka.jar
+test_images/*
+out.txt
+result.jpg
